@@ -13,5 +13,8 @@ build: {
     "@fortawesome/fontawesome-svg-core",
     "@fortawesome/free-brands-svg-icons",
   ]
-}
+},
+app :{
+  baseURL : "/nuxt-portfolio"
+ 
 })
