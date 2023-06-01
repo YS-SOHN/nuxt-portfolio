@@ -14,8 +14,6 @@ build: {
     "@fortawesome/free-brands-svg-icons",
   ]
 },
-app :{
-  baseURL : "/nuxt-portfolio"
-}
+
  
 })
