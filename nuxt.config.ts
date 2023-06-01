@@ -16,5 +16,6 @@ build: {
 },
 app :{
   baseURL : "/nuxt-portfolio"
+}
  
 })
